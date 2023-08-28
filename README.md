@@ -9,19 +9,19 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithims**
 
-- 🤝 I’m looking for help with **Software Developement**
+- 🤝 I’m looking for help on **Software Developement**
 
-- 💬 Ask me about **C,C++,Java,Python,Frontend**
+- 💬 Ask me about **C,C++,Java,Python,JavaScript,Frontend**
 
-- 📫 How to reach me **shivam.tiwari_cs19@gla.ac.in**
+- 📫 How to reach me **tiwarishivam77777@gmail.com**
 
 - ⚡ Fun fact **Good sarcasm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shivamtiwari77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivamtiwari77" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anupam.77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anupam.77/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/anupam_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anupam_77" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivamtiwari77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivamtiwari77" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anupam.77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anupam.77/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anupam_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anupam_77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
