@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-77&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-77" alt="shivam-77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-77&theme=algolia" alt="shivam-77" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack**
 
